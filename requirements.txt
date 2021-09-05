@@ -1,0 +1,4 @@
+pandas
+yfinance
+altair
+streamlit==0.86.0
